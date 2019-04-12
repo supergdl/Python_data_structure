@@ -16,3 +16,5 @@ if __name__ == '__main__':
     functionA()
     functionB()
 print("after __name__ guard")
+
+print("test")
